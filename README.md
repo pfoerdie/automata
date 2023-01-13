@@ -1,1 +1,1 @@
-# automata
+# @pfoerdie/automata
